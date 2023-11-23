@@ -4,6 +4,8 @@ Statistics](https://www.whitman.edu/academics/majors-and-minors/mathematics)
 at [Whitman College](https://www.whitman.edu/) in [Walla Walla, WA
 USA](https://www.wallawallawa.gov/).
 
+* * *
+
 # Teaching Projects
 
 ## Phone Sensor Math
