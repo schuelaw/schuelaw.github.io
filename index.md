@@ -29,6 +29,7 @@ other javascript frameworks that enable similar development, but few as
 accessible as this one.
 
 ## Vector Field Visualization
-This visualization can help students see flux across a circular boundary.
-Cloning this repository will provide the p5js source code and a github
-pages template. You can edit the code to change the boundary for example.
+This [visualization](https://schuelaw.github.io/VectorField/) can help
+students see flux across a circular boundary.  Cloning this repository will
+provide the p5js source code and a github pages template. You can edit the
+code to change the boundary for example.
