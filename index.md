@@ -20,6 +20,8 @@ contains a description of and resources for a mastery learning vector
 calculus course developed during the Fall 2020 semester in which the COVID
 pandemic forced me to teach on-line.
 
+* * *
+
 # P5JS Projects
 [P5JS](https://p5js.org/) is a javascript library that enables relatively
 easy coding of web-based, interactive, visualizations. There are a lot of
@@ -27,3 +29,6 @@ other javascript frameworks that enable similar development, but few as
 accessible as this one.
 
 ## Vector Field Visualization
+This visualization can help students see flux across a circular boundary.
+Cloning this repository will provide the p5js source code and a github
+pages template. You can edit the code to change the boundary for example.
